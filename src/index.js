@@ -1,2 +1,2 @@
 // webpack entry point
-import '../css/styles.css';
+import '../css/style.css';
