@@ -1,1 +1,3 @@
-console.log('app worked');
+const print = () => console.log('app worked');
+
+print();
